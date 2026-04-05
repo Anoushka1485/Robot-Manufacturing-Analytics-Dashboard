@@ -126,6 +126,8 @@ Aggregated table for dashboards:
 * Time-series trends for production performance
 * Station-level cycle time analysis
 
+<img width="1236" height="698" alt="image" src="https://github.com/user-attachments/assets/763f4917-1527-4989-8350-f0f49c2a9e13" />
+
 ---
 
 ## 🚀 Future Improvements
